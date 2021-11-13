@@ -13,7 +13,7 @@
                 <table>
                     <tr>
                         <th><h4>Directorio</h4></th>
-                        <div class="text-right">
+                        <div class="text-right ">
                             <a href="{{ route('home') }}" class="btn btn-primary active" role="button" data-bs-toggle="button" aria-pressed="true">Inicio</a>
                         </div>
                         
